@@ -1,0 +1,12 @@
+1.Reliable = เชื่อถือได้
+2.Verifiability = การตรวจสอบได้
+3.Primary Information = สารสนเทศปฐมภูมิ
+4.Secondary Information = สารสนเทศทุติยภูมิ
+5.Tertiary Information = สารสนเทศตติยภูมิ
+6.citation = การอ้างอิง
+7.plagiarism = การลอกเลียนแบบ
+8.academic = วิชาการ
+9.Reports = รายงานวิชาการ
+10.Term paper = ภาคนิพนธ
+11.Thesis/Dissertation = วิทยานิพนธ์
+12.Research = รายงานการวิจัย
